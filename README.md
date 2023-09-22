@@ -1,2 +1,3 @@
 # spam
-Trabajo en clases data de spam  y script del modelo
+Trabajo correos spam  y script del modelo predictivo con pruebas del mismo. 
+
